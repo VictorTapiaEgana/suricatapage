@@ -1,0 +1,71 @@
+/* COLORES */
+:root{
+    --fondo-principal:#E83E8C;
+    --blanco:#fff;
+    --negro:#000;
+    --colorh1:#707070;
+    --fondo-medios-pago:#17A2B8;
+    --cardtitles:#373A3C;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;    
+}
+
+/* NABVAR */
+.navbar{
+    background-color:var(--fondo-principal) 
+}
+
+.logoSuricata{
+    width: 132px;
+    height: 53px; 
+}
+
+/* ENCABEZADO */
+h1{
+    display: inline-block;    
+    height: 96px;        
+    font-size: 35px;     
+}
+
+#titulo{
+    font-weight: 800;
+    color: var(--colorh1);
+}
+
+/* SECCION FORMAS DE PAGO */
+#formasDePago{
+     background-color: var(--fondo-medios-pago); 
+     font-size: 40px;
+     height: 170px;
+    
+}
+
+#aceptamos{
+    font-weight: 800;
+}
+
+#icons{
+    font-size:80px;               
+    color: var(--negro);
+    filter: invert(100%);
+}
+
+footer{
+    background-color: var(--fondo-principal);
+    height: 184px;
+}
+
+footer img{    
+    height: 100px;
+}
+
+.card-text, .card-title{
+    color: var(--cardtitles);
+    font-weight: 400;
+}
+#tituloCard{
+    font-weight: 800;     
+}
+
