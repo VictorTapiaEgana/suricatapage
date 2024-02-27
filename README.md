@@ -14,3 +14,4 @@ Pagina web responsive usando Bootstrap
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-green)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP_5-blue)
+![FONTAWESOME](https://img.shields.io/badge/FONT_AWESOME-yellow)
